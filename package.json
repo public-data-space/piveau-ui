@@ -36,7 +36,7 @@
     "leaflet-editable": "^1.2.0",
     "merge-anything": "^2.4.1",
     "moment": "^2.22.1",
-    "node-sass": "^4.11.0",
+    "node-sass": "^7.0.0",
     "npm": "^6.10.0",
     "opn": "^5.4.0",
     "popper.js": "^1.14.3",
